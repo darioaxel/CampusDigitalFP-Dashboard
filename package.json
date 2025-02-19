@@ -15,5 +15,8 @@
     "primevue": "^4.2.5",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.2.5"
   }
 }
