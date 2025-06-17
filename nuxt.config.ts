@@ -17,6 +17,7 @@ export default defineNuxtConfig({
     '@nuxt/scripts',
     '@nuxtjs/i18n',
     '@nuxt/fonts',
+    'nuxt-lucide-icons',
   ],
   shadcn: {
     prefix: 'Ui',
